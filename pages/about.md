@@ -22,3 +22,5 @@ Further, I have headed the Computer Department in our college's Interdepartmenta
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+[RESUME](/assets/resume.pdf.pdf)
