@@ -4,7 +4,7 @@ description         : >-
                       Every day is a new learning curve :coffee:
                      
                      
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
@@ -30,18 +30,18 @@ author:
 # dribbble          : your_username
   email             : simrangupta877@gmail.com
 #  facebook          : your_username
-  github            : https://github.com/SimrnGupta
-  gitlab            : https://gitlab.com/SimrnGupta
+  github            : SimrnGupta
+#  gitlab            : SimrnGupta
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/simrn-gupta-48146b1a2
-  medium            : https://simrngupta.medium.com/
+  linkedin          : simrn-gupta-48146b1a2
+  medium            : simrngupta
 # soundcloud        : your_username
-  spotify           : https://open.spotify.com/user/dt539zc1ks0v3gg5jhuzlrcjh?si=0e2ef02dab5e4c3e
+  spotify           : dt539zc1ks0v3gg5jhuzlrcjh?si=0e2ef02dab5e4c3e
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : https://twitter.com/GuptaSimrn
+  twitter           : GuptaSimrn
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
